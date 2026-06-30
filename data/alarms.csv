@@ -1,0 +1,3 @@
+
+alarm_id,ahu_id,alarm_time,alarm_code,alarm_severity,description
+1,2,2024-05-12 14:00:00,ALM-PS-01,HIGH,Static pressure too low
