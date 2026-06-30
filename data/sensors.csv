@@ -1,0 +1,5 @@
+sensor_id,ahu_id,sensor_name,sensor_type,unit,is_active,install_date
+1,1,Supply Air Temp Sensor,temperature,°C,true,2020-03-20
+2,1,Return Air CO2 Sensor,co2,ppm,true,2020-03-20
+3,2,Static Pressure Sensor,pressure,Pa,true,2021-07-15
+
