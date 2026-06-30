@@ -1,0 +1,4 @@
+cost_id,change_order_id,cost_type,amount
+1,1,Materials,900
+2,1,Labor,600
+
