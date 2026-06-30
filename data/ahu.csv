@@ -1,0 +1,4 @@
+ahu_id,ahu_name,location,building,floor,commissioning_date
+1,AHU-01,North Wing,Building A,1,2020-03-15
+2,AHU-02,South Wing,Building A,2,2021-07-10
+
